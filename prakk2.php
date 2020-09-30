@@ -34,14 +34,10 @@ $b=$y;
 }
 
 if($b){
-
-
 echo "Nama              : ".$b["Nama"]."<br>";
 echo "NIK               : ".$b["NIK"]."<br>";
 echo "Jenis Kelamin     : ".$b["Jenis_kelamin"]."<br>";
 echo "Tanggal Lahir     : ".$b["Tgl_lahir"]."<br>";
-
-
 }
 
 else{
